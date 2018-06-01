@@ -1,7 +1,6 @@
 Name
 Age
 Sex
-Bug 1
 Address
 Date of Birth
 Bug 2
