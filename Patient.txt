@@ -3,5 +3,4 @@ Age
 Sex
 Address
 Date of Birth
-Bug 2
 PHN No
